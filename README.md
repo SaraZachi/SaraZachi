@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sara Zachi. I'm a physics graduate, during graduation I developed Scientific projects at USP, Piracicaba (2018-2021). Currently, I'm working as a Data Science trainee consultant as Management Solutions. I want to be a Data Analyst in Machine learning so, in this platform, I'm sharing some projects I'm developing.
+My name is Sara Zachi. I'm a physics graduate, during graduation I developed Scientific projects at USP, Piracicaba (2018-2021). Currently, I'm working as a Data Science trainee consultant as Management Solutions. I want to be a Data Analyst in Machine learning so, in this platform, I'm sharing some projects I developed.
 
 
 
